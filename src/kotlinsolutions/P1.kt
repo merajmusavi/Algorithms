@@ -1,3 +1,5 @@
+package kotlinsolutions
+
 fun main() {
     val ArrayMeraj: Array<Int> = arrayOf(20, 40, 44, 50, 86,100)
     val ArrayMona: Array<Int> = arrayOf(20, 40, 44, 50, 86,100)
